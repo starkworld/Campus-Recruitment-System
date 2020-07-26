@@ -1,0 +1,17 @@
+				HARDWARE AND SOFTWARE REQUIREMENTS
+
+Hardware Requirements:
+
+Processor			: 	Pentium-III (or) Higher
+Ram				:	64MB (or) Higher
+Cache				: 	512MB
+Hard disk			: 	10GB
+
+Software Requirements:
+
+Technology			: 	Java 2 Standard Edition, JDBC
+Web Server			: 	Tomcat 6.0
+Client Side Technologies	: 	HTML, CSS, JavaScript
+Server Side Technologies	:	Servlets, JSP
+Data Base Server		:	MySQL
+Operating System		:	Microsoft Windows, Linux or Mac any version
