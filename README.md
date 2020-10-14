@@ -6,7 +6,7 @@ It works at the collage or university.\
 The college or university allows the company to register in the system and helps to get students easily as per their qualifications and requirement.
 This project manages all the details of college students and even involves the college placement officers.This system computerized the operations done in a JOB CONSULTANCY.\
 It maintains a DATABASE of student details, college details and the company details.\
-It has a selected process where persons are selected according to the client (company’s) requirement\
+It has a selected process where persons are selected according to the client (company’s) requirement.
 * Android Studio
 * Visual Studio
 * Knowledge of: Java
