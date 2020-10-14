@@ -13,6 +13,24 @@ It has a selected process where persons are selected according to the client (co
                 Asp .Net
                 MYSQL 
               
+
+## Architecural Model:
+![Alt text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Screen%20Shot%202020-10-14%20at%201.42.01%20PM.png)
+
+## UseCase Diagram:
+![Alt text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Screen%20Shot%202020-10-14%20at%201.42.29%20PM.png)
+
+## Class Diagram
+![Alt Text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Screen%20Shot%202020-10-14%20at%201.42.17%20PM.png)
+
+## Sequence Diagram
+![Alt text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Screen%20Shot%202020-10-14%20at%201.42.40%20PM.png)
+
+## Activity Diagram
+![Alt text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Screen%20Shot%202020-10-14%20at%201.42.50%20PM.png)
+
+
+
 ### Hardware Requirements:
 * Processor			: 	Pentium-III (or) Higher
 * Ram				:	64MB (or) Higher
@@ -27,6 +45,3 @@ It has a selected process where persons are selected according to the client (co
 * Server Side Technologies	:	Servlets, JSP
 * Data Base Server		:	MySQL
 * Operating System		:	Microsoft Windows, Linux or Mac any version
-
-
-
