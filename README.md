@@ -45,3 +45,10 @@ It has a selected process where persons are selected according to the client (co
 * Server Side Technologies	:	Servlets, JSP
 * Data Base Server		:	MySQL
 * Operating System		:	Microsoft Windows, Linux or Mac any version
+
+
+Project visualization:
+![Alt text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Pictur.png)
+![Alt text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Picture2.png)
+![Alt text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Picture3.png)
+![Alt text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Picture4.png)
