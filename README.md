@@ -47,7 +47,7 @@ It has a selected process where persons are selected according to the client (co
 * Operating System		:	Microsoft Windows, Linux or Mac any version
 
 
-Project visualization:
+### Project visualization:
 ![Alt text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Pictur.png)
 ![Alt text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Picture2.png)
 ![Alt text](https://github.com/starkworld/Campus-Recruitment-System/blob/master/images/Picture3.png)
